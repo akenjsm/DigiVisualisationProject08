@@ -37,3 +37,22 @@
 .home .fa{
     font-size:50px;
 }
+.air img{
+    width:100%;
+}
+.air .fa{
+    font-size:50px;
+}
+.light .fa{
+    font-size:50px;
+}
+.waste .fa{
+    font-size:50px;
+}
+.noise .fa{
+    font-size:50px;
+}
+.noise iframe{
+    height: 800px;
+    width:100%;
+}
