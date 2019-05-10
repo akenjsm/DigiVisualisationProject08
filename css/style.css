@@ -1,0 +1,39 @@
+.header{
+    font-size:17px;
+}
+.header .fa{
+    font-size:25px;
+}
+.showcase{
+    background:url('../img/showcase.jpg') no-repeat;
+    background-position: center;    
+    height:500px;
+    widows: 100%;
+    padding: 140px 100px;
+    color: #fff;
+}
+.showcase h1{
+    font-size: 40px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.showcase hr{
+    width: 350px;
+    margin:auto;
+    border-width:3px;
+    border-color:#f44336;
+}
+.showcase p{
+    font-size:16px;
+    padding-bottom:20px;
+}
+.home{
+    padding:40px 0;
+}
+.home h2{
+    padding:0;
+    margin:0;
+}
+.home .fa{
+    font-size:50px;
+}
